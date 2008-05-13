@@ -1,0 +1,10 @@
+anarchism
+anticommunism
+eurocommunism
+leninism
+socialism
+maoism
+marxism
+situationism
+stalinism
+trotskyism
