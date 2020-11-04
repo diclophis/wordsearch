@@ -1,4 +1,4 @@
-<?
+<?php
 
 function sortByLength ($a, $b) {
     if (strlen($a) == strlen($b)) return 0;
